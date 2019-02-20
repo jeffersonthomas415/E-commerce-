@@ -1,0 +1,2 @@
+# E-commerce-
+We are looking for the contributors to contribute in E-commerce website. We have created the home page of the website. Now, we are looking for contributors to further develop the E-commerce website. The website also need user login and registration form in php. Yes, there also will be shop page where user can buy men's and women's scarf. We are just looking for a simple E-commerce website. As, I mentioned earlier that I have created the layout of the "home" page. The contributor needs to follow the same layout through out the whole website development.
